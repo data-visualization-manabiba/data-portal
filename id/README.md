@@ -12,3 +12,6 @@
 - [該当ディレクトリ](/prefecture_list)
 
 
+### 国土交通省による公共施設ID
+
+- [該当ディレクトリ](/id/publicfacility_list)
